@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+guid: 1959a8cbecc371948a26a51fc8e0fb26
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - gather: {fileID: 8300000, guid: 8e4650b0790710141ae9e1d98e42f910, type: 3}
+  - playerExplosion: {fileID: 8300000, guid: d284406d85d72154e984177787010ddd, type: 3}
+  - explosion: {fileID: 400000, guid: 046f57aa67a382148be0dea85d14dbc0, type: 2}
+  - explosion2: {fileID: 400000, guid: 8b57ada2e3929e8478f031502f8ae356, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
